@@ -21,6 +21,7 @@ public class Java1 {
         System.out.println("tú ngu ăn cứt");
         System.out.println("tú ngu ngu như chó");
         System.out.println("hoàng ml ngu vcl");
+        System.out.println("kiên mặt lồn");
     }
     
 }
