@@ -19,6 +19,7 @@ public class Java1 {
         int a,b,sum;
         System.out.println("mời bạn nhập số a: ");
         System.out.println("tú ngu ăn cứt");
+        System.out.println("tú ngu ngu như chó");
     }
     
 }
