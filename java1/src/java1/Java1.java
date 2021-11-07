@@ -18,7 +18,7 @@ public class Java1 {
         // TODO code application logic here
         int a,b,sum;
         System.out.println("mời bạn nhập số a: ");
-        
+        System.out.println("tú ngu ăn cứt");
     }
     
 }
